@@ -25,6 +25,13 @@ speedtest-cli works with Python 2.4-3.7
 
 Installation
 ------------
+WORKING FORK CAN BE DOWNLOADED VIA:
+~~~~~~
+
+::
+
+    pip install git+https://github.com/Roki100/speedtest-cli
+
 
 pip / easy\_install
 ~~~~~~~~~~~~~~~~~~~
